@@ -3,9 +3,9 @@
 # Netflix: Buscador inteligente
 
 # Integrantes:
-* oihfipasf
-* pksdnmpadsf
-* insdmp
+* Maydelith Zuñiga
+* Joaquin Llallire
+* 
 * sdkaop
 
 ## Preprocesamiento de Datos
