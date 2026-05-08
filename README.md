@@ -5,8 +5,9 @@
 # Integrantes:
 * Maydelith Zuñiga
 * Joaquin Llallire
-* 
-* sdkaop
+* Adrián Gamboa 
+* Carlos Condor
+* Rodrigo Huertos
 
 ## Preprocesamiento de Datos
 
