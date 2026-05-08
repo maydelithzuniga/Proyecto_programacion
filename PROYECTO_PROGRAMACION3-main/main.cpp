@@ -8,8 +8,8 @@
 
 int main() {
     // ── 1. Limpieza y generación del CSV final ────────────────────────────────
-
-
+    limpiezadatos limpieza;
+    limpieza.limpiardatoscsv();
     // ── 2. Carga de la base de datos ──────────────────────────────────────────
     EstadoPantalla estado = MENU_PRINCIPAL;
     std::unordered_map<int, Pelicula> db = cargarCSV();
